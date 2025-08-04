@@ -61,3 +61,8 @@ body{
     border: none;
     background-color: #ff2978;
 }
+
+header{
+    height: 600px;
+    background-color: gray;
+}
